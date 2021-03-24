@@ -1,3 +1,4 @@
+package kyu8;
 public class YouOnlyNeedOne {
 
   public static boolean check(Object[] a, Object x) {
